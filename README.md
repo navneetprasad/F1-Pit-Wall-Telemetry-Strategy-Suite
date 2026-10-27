@@ -2,7 +2,7 @@
 
 An enterprise-grade Formula 1 race engineering, telemetry analysis, and strategy workstation powered by **FastF1, Streamlit, SciPy, Scikit-Learn, and Plotly**.
 
-Features authentic GPS cubic-spline track geometries, distance-aligned teammate spatial deltas, empirical tyre thermal degradation modeling, a Random Forest pit stop event classifier, and 10,000-run Monte Carlo stochastic race strategy engines.
+Features authentic GPS cubic-spline track geometries, distance-aligned teammate spatial deltas, empirical tyre thermal-degradation modeling, a Random Forest pit-stop event classifier, and 10,000-run Monte Carlo stochastic race-strategy engines.
 
 ---
 
@@ -87,4 +87,4 @@ f1_pitwall_suite/
 **Navneet Prasad**  
 - 3rd Year B.Tech Computer Science & Engineering (Data Science) Student  
 - GGSESTC Bokaro (Class of 2028)  
-- [Portfolio Website]((https://navneet-prasad.netlify.app/))
+
