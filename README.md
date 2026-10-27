@@ -87,4 +87,4 @@ f1_pitwall_suite/
 **Navneet Prasad**  
 - 3rd Year B.Tech Computer Science & Engineering (Data Science) Student  
 - GGSESTC Bokaro (Class of 2028)  
-- [Portfolio Website](https://navneet-prasad.github.io)
+- [Portfolio Website]((https://navneet-prasad.netlify.app/))
